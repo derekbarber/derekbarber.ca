@@ -12,11 +12,11 @@ ECHO = $(ECHO1:0=@echo)
 #### Start of system configuration section. ####
 
 srcdir = .
-topdir = /Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1
-hdrdir = /Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1
-arch_hdrdir = /Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/$(arch)
+topdir = /Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1
+hdrdir = /Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1
+arch_hdrdir = /Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/$(arch)
 VPATH = $(srcdir):$(arch_hdrdir)/ruby:$(hdrdir)/ruby
-prefix = $(DESTDIR)/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0
+prefix = $(DESTDIR)/Users/derekbarber/.rbenv/versions/1.9.3-p194
 rubylibprefix = $(libdir)/$(RUBY_BASE_NAME)
 exec_prefix = $(prefix)
 vendorhdrdir = $(rubyhdrdir)/vendor_ruby
@@ -53,11 +53,11 @@ vendorarchdir = $(vendorlibdir)/$(sitearch)
 
 NULLCMD = :
 
-CC = /usr/bin/gcc-4.2
-CXX = g++-4.2
-LIBRUBY = $(LIBRUBY_SO)
+CC = gcc
+CXX = g++
+LIBRUBY = $(LIBRUBY_A)
 LIBRUBY_A = lib$(RUBY_SO_NAME)-static.a
-LIBRUBYARG_SHARED = -l$(RUBY_SO_NAME)
+LIBRUBYARG_SHARED = 
 LIBRUBYARG_STATIC = -l$(RUBY_SO_NAME)-static
 OUTFLAG = -o 
 COUTFLAG = -o 
@@ -67,15 +67,15 @@ cflags   =  $(optflags) $(debugflags) $(warnflags)
 optflags = -O3
 debugflags = -ggdb
 warnflags = -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement  -Wimplicit-function-declaration
-CFLAGS   = -fno-common $(cflags)  -fno-common -pipe -O0 -Wall  
+CFLAGS   = -fno-common $(cflags)  -pipe -O0 -Wall  $(ARCH_FLAG)
 INCFLAGS = -I. -I$(arch_hdrdir) -I$(hdrdir)/ruby/backward -I$(hdrdir) -I$(srcdir)
 DEFS     = 
-CPPFLAGS =  -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE $(DEFS) $(cppflags)
+CPPFLAGS =  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE $(DEFS) $(cppflags)
 CXXFLAGS = $(CFLAGS) $(cxxflags)
-ldflags  = -L. -L/usr/local/lib
+ldflags  = -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib
 dldflags = -Wl,-undefined,dynamic_lookup -Wl,-multiply_defined,suppress -Wl,-flat_namespace
 ARCH_FLAG = 
-DLDFLAGS = $(ldflags) $(dldflags)
+DLDFLAGS = $(ldflags) $(dldflags) $(ARCH_FLAG)
 LDSHARED = $(CC) -dynamic -bundle
 LDSHAREDXX = $(CXX) -dynamic -bundle
 AR = ar
@@ -83,11 +83,11 @@ EXEEXT =
 
 RUBY_BASE_NAME = ruby
 RUBY_INSTALL_NAME = ruby
-RUBY_SO_NAME = ruby.1.9.1
-arch = x86_64-darwin11.2.0
+RUBY_SO_NAME = ruby
+arch = x86_64-darwin11.4.0
 sitearch = $(arch)
 ruby_version = 1.9.1
-ruby = /Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/bin/ruby
+ruby = /Users/derekbarber/.rbenv/versions/1.9.3-p194/bin/ruby
 RUBY = $(ruby)
 RM = rm -f
 RM_RF = $(RUBY) -run -e rm -- -rf
@@ -102,8 +102,8 @@ COPY = cp
 
 preload = 
 
-libpath = . $(libdir) /Users/derekbarber/.rvm/usr/lib
-LIBPATH =  -L. -L$(libdir) -L/Users/derekbarber/.rvm/usr/lib
+libpath = . $(libdir)
+LIBPATH =  -L. -L$(libdir)
 DEFFILE = 
 
 CLEANFILES = mkmf.log
@@ -114,7 +114,7 @@ extout =
 extout_prefix = 
 target_prefix = 
 LOCAL_LIBS = 
-LIBS = $(LIBRUBYARG_SHARED) -lc  -lpthread -ldl -lobjc 
+LIBS =  -lc  -lpthread -ldl -lobjc 
 SRCS = redcloth_attributes.c redcloth_inline.c redcloth_scan.c
 OBJS = redcloth_attributes.o redcloth_inline.o redcloth_scan.o
 TARGET = redcloth_scan

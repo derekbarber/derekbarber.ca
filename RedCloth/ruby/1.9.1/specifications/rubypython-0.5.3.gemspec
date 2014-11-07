@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
   s.requirements = ["Python, ~> 2.4"]
   s.rubyforge_project = "rubypython"
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "RubyPython is a bridge between the Ruby and Python interpreters"
 
   if s.respond_to? :specification_version then

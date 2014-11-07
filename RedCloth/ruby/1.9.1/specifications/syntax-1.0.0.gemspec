@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   s.email = "jamis@jamisbuck.org"
   s.require_paths = ["lib"]
   s.required_ruby_version = Gem::Requirement.new("> 0.0.0")
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "Syntax is Ruby library for performing simple syntax highlighting."
 
   if s.respond_to? :specification_version then

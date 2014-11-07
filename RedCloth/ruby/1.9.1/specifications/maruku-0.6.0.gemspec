@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.files = ["bin/maruku", "bin/marutex"]
   s.homepage = "http://maruku.rubyforge.org"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "Maruku is a Markdown-superset interpreter written in Ruby."
 
   if s.respond_to? :specification_version then

@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://wiki.github.com/wvanbergen/chunky_png"
   s.rdoc_options = ["--title", "chunky_png", "--main", "README.rdoc", "--line-numbers", "--inline-source"]
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "Pure ruby library for read/write, chunk-level access to PNG files"
 
   if s.respond_to? :specification_version then

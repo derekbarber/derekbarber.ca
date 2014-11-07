@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://github.com/rtomayko/rdiscount"
   s.require_paths = ["lib"]
   s.rubyforge_project = "wink"
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "Fast Implementation of Gruber's Markdown in C"
 
   if s.respond_to? :specification_version then

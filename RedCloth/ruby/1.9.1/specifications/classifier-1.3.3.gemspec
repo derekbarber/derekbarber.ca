@@ -13,7 +13,7 @@ Gem::Specification.new do |s|
   s.homepage = "http://classifier.rufy.com/"
   s.require_paths = ["lib"]
   s.requirements = ["A porter-stemmer module to split word stems."]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "A general classifier module to allow Bayesian and other types of classifications."
 
   if s.respond_to? :specification_version then

@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.files = ["bin/posix-spawn-benchmark", "COPYING", "HACKING", "ext/extconf.rb"]
   s.homepage = "http://github.com/rtomayko/posix-spawn"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "posix_spawnp(2) for ruby"
 
   if s.respond_to? :specification_version then

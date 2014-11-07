@@ -1,7 +1,7 @@
 package configuration for libffi is not found
 have_header: checking for ffi.h... -------------------- no
 
-"/usr/bin/gcc-4.2 -o conftest -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe conftest.c  -L. -L/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/lib -L/Users/derekbarber/.rvm/usr/lib -L. -L/usr/local/lib     -lruby.1.9.1  -lpthread -ldl -lobjc "
+"gcc -o conftest -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe conftest.c  -L. -L/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib     -lruby-static  -lpthread -ldl -lobjc "
 checked program was:
 /* begin */
 1: #include "ruby.h"
@@ -9,7 +9,7 @@ checked program was:
 3: int main() {return 0;}
 /* end */
 
-"/usr/bin/gcc-4.2 -E -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe  conftest.c -o conftest.i"
+"gcc -E -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe  conftest.c -o conftest.i"
 conftest.c:3:17: error: ffi.h: No such file or directory
 checked program was:
 /* begin */
@@ -22,7 +22,7 @@ checked program was:
 
 find_header: checking for ffi.h in /usr/local/include... -------------------- no
 
-"/usr/bin/gcc-4.2 -E -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe  conftest.c -o conftest.i"
+"gcc -E -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe  conftest.c -o conftest.i"
 conftest.c:3:17: error: ffi.h: No such file or directory
 checked program was:
 /* begin */
@@ -31,7 +31,7 @@ checked program was:
 3: #include <ffi.h>
 /* end */
 
-"/usr/bin/gcc-4.2 -E -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe -I/usr/local/include conftest.c -o conftest.i"
+"gcc -E -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe -I/usr/local/include conftest.c -o conftest.i"
 conftest.c:3:17: error: ffi.h: No such file or directory
 checked program was:
 /* begin */
@@ -44,7 +44,7 @@ checked program was:
 
 have_func: checking for rb_thread_blocking_region()... -------------------- yes
 
-"/usr/bin/gcc-4.2 -o conftest -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe conftest.c  -L. -L/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/lib -L/Users/derekbarber/.rvm/usr/lib -L. -L/usr/local/lib     -lruby.1.9.1  -lpthread -ldl -lobjc "
+"gcc -o conftest -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe conftest.c  -L. -L/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib     -lruby-static  -lpthread -ldl -lobjc "
 checked program was:
 /* begin */
 1: #include "ruby.h"
@@ -58,7 +58,7 @@ checked program was:
 
 have_func: checking for ruby_native_thread_p()... -------------------- yes
 
-"/usr/bin/gcc-4.2 -o conftest -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe conftest.c  -L. -L/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/lib -L/Users/derekbarber/.rvm/usr/lib -L. -L/usr/local/lib     -lruby.1.9.1  -lpthread -ldl -lobjc "
+"gcc -o conftest -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe conftest.c  -L. -L/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib     -lruby-static  -lpthread -ldl -lobjc "
 checked program was:
 /* begin */
 1: #include "ruby.h"
@@ -72,7 +72,7 @@ checked program was:
 
 have_func: checking for rb_thread_call_with_gvl()... -------------------- yes
 
-"/usr/bin/gcc-4.2 -o conftest -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe conftest.c  -L. -L/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/lib -L/Users/derekbarber/.rvm/usr/lib -L. -L/usr/local/lib     -lruby.1.9.1  -lpthread -ldl -lobjc "
+"gcc -o conftest -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe conftest.c  -L. -L/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib     -lruby-static  -lpthread -ldl -lobjc "
 conftest.c: In function ‘t’:
 conftest.c:5: error: ‘rb_thread_call_with_gvl’ undeclared (first use in this function)
 conftest.c:5: error: (Each undeclared identifier is reported only once
@@ -86,7 +86,7 @@ checked program was:
 5: int t() { void ((*volatile p)()); p = (void ((*)()))rb_thread_call_with_gvl; return 0; }
 /* end */
 
-"/usr/bin/gcc-4.2 -o conftest -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/x86_64-darwin11.2.0 -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/include/ruby-1.9.1 -I. -I/Users/derekbarber/.rvm/usr/include -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE    -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -fno-common -pipe conftest.c  -L. -L/Users/derekbarber/.rvm/rubies/ruby-1.9.3-p0/lib -L/Users/derekbarber/.rvm/usr/lib -L. -L/usr/local/lib     -lruby.1.9.1  -lpthread -ldl -lobjc "
+"gcc -o conftest -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/x86_64-darwin11.4.0 -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1/ruby/backward -I/Users/derekbarber/.rbenv/versions/1.9.3-p194/include/ruby-1.9.1 -I. -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE  -I'/Users/derekbarber/.rbenv/versions/1.9.3-p194/include'   -O3 -ggdb -Wextra -Wno-unused-parameter -Wno-parentheses -Wno-long-long -Wno-missing-field-initializers -Wpointer-arith -Wwrite-strings -Wdeclaration-after-statement -Wshorten-64-to-32 -Wimplicit-function-declaration  -pipe conftest.c  -L. -L/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib -L. -L'/Users/derekbarber/.rbenv/versions/1.9.3-p194/lib'  -L/usr/local/lib     -lruby-static  -lpthread -ldl -lobjc "
 conftest.c: In function ‘t’:
 conftest.c:5: warning: implicit declaration of function ‘rb_thread_call_with_gvl’
 checked program was:
@@ -99,4 +99,16 @@ checked program was:
 /* end */
 
 --------------------
+
+extconf.h is:
+/* begin */
+1: #ifndef EXTCONF_H
+2: #define EXTCONF_H
+3: #define HAVE_RB_THREAD_BLOCKING_REGION 1
+4: #define HAVE_RUBY_NATIVE_THREAD_P 1
+5: #define HAVE_RB_THREAD_CALL_WITH_GVL 1
+6: #define USE_INTERNAL_LIBFFI 1
+7: #define RUBY_1_9 1
+8: #endif
+/* end */
 

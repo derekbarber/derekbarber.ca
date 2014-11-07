@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.rdoc_options = ["--charset=UTF-8", "--line-numbers", "--inline-source", "--title", "RedCloth", "--main", "README.rdoc"]
   s.require_paths = ["lib", "lib/case_sensitive_require", "ext"]
   s.rubyforge_project = "redcloth"
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "RedCloth-4.2.9"
 
   if s.respond_to? :specification_version then

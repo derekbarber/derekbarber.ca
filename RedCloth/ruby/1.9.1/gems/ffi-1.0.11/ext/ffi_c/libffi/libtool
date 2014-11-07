@@ -56,13 +56,13 @@ fast_install=needless
 
 # The host system.
 host_alias=
-host=x86_64-apple-darwin11.2.0
-host_os=darwin11.2.0
+host=x86_64-apple-darwin12.2.0
+host_os=darwin12.2.0
 
 # The build system.
 build_alias=
-build=x86_64-apple-darwin11.2.0
-build_os=darwin11.2.0
+build=x86_64-apple-darwin12.2.0
+build_os=darwin12.2.0
 
 # A sed program that does not truncate output.
 SED="/usr/bin/sed"
@@ -129,7 +129,7 @@ old_postinstall_cmds="chmod 644 \$oldlib~\$RANLIB \$oldlib"
 old_postuninstall_cmds=""
 
 # A C compiler.
-LTCC="/usr/bin/gcc-4.2"
+LTCC="gcc"
 
 # LTCC compiler flags.
 LTCFLAGS=""
@@ -234,7 +234,7 @@ finish_eval=""
 hardcode_into_libs=no
 
 # Compile-time system search path for libraries.
-sys_lib_search_path_spec="/usr/lib/gcc/i686-apple-darwin11/4.2.1/x86_64 /usr/lib/i686-apple-darwin11/4.2.1 /usr/lib /usr/local/lib"
+sys_lib_search_path_spec="/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/x86_64 /Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/x86_64 /usr/lib /usr/llvm-gcc-4.2/lib/gcc /usr/llvm-gcc-4.2/lib /Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib /usr/local/lib"
 
 # Run-time system search path for libraries.
 sys_lib_dlsearch_path_spec="/usr/local/lib /lib /usr/lib"
@@ -260,7 +260,7 @@ LD="ld"
 old_archive_cmds="\$AR \$AR_FLAGS \$oldlib\$oldobjs~\$RANLIB \$oldlib"
 
 # A language specific compiler.
-CC="/usr/bin/gcc-4.2"
+CC="gcc"
 
 # Is the compiler the GNU compiler?
 with_gcc=yes

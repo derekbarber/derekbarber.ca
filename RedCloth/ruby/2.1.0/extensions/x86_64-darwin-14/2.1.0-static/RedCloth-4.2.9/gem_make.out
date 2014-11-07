@@ -1,0 +1,15 @@
+/Users/derekbarber/.rbenv/versions/2.1.4/bin/ruby extconf.rb 
+checking for main() in -lc... yes
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling redcloth_attributes.c
+compiling redcloth_inline.c
+compiling redcloth_scan.c
+linking shared-object redcloth_scan.bundle
+
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 redcloth_scan.bundle ./.gem.20141107-59389-8n446y
+installing default redcloth_scan libraries

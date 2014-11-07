@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email = "rubygems@6brand.com"
   s.homepage = "http://github.com/masover/blankslate"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.15"
+  s.rubygems_version = "1.8.24"
   s.summary = "BlankSlate extracted from Builder."
 
   if s.respond_to? :specification_version then
