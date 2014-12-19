@@ -26,6 +26,8 @@ always been left *wanting*, but I never felt I could express what exactly was mi
 [Bret Victor's](http://worrydream.com) incredible article [Learnable Programming](http://worrydream.com/LearnableProgramming/),
 that has now changed.
 
+<!-- more -->
+
 Bret's article begins by asking a question: 
 > *How do we get people to understand programming?*
 
