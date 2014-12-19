@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-{% img right /images/derek.jpg 280 215 "Derek Barber" %}
+{% img left /images/family.jpg 450 360 "Hanging out in nature" %}
 
 I live in the beautiful province of [British Columbia](http://en.wikipedia.org/wiki/British_Columbia),
 located along the West Coast of Canada. I think living here has greatly contributed
@@ -36,16 +36,17 @@ My musical expressions are primarily realized through my band [Greylevel](http:/
 date has released two albums through [ProgRock Records](http://www.therecordlabel.net/progressive-rock/greylevel/).
 Our last album, Hypostatic Union, was released in early 2011 and has enjoyed great success. (We are even listed
 on ProgArchives [Top Prog Albums for 2011](http://www.progarchives.com/top-prog-albums.asp?syears=2011#list).)
-The positive response to this album has been a great encouragement and so I am hoping to make major progress on the next 
-one during 2012.
+The positive response to this album has been a great encouragement and we are slowly but surely working on
+our third album which hopefully will be done in the next couple years.
 
 ## A little bit more about me
 
-More importantly than both work and music, I am married to a wonderful woman and we have
-two awesome kids. Every spare moment that I'm not working, you'll probably find me 
+More importantly than both work and music, I am married to my best friend and we have
+three wonderful kids. Most spare moment that I'm not working, you'll probably find me 
 spending time with them.
 
-I am also a Christian and I attend a local [church](http://www.crossway.ca) with my family. In addition to reading 
-technicals books I also enjoy theology, church history and the great discussions that such topics usually bring about. 
-If you want to have a conversation, please get in touch.
+I am also a Christian and that means in addition to reading technicals books I also enjoy theology, 
+mysticism, church history, insense, icons, candles and the great discussions that such topics usually bring about. 
+One of my favourite places to spend a couple days is our local Benedictine Monastary, [Westminster Abbey](http://www.westminsterabbey.ca/).
+If you want to have a conversation, please [get in touch](mailto:derek@greylevel.com).
 
