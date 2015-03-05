@@ -3,7 +3,9 @@ layout: post
 title: "Using PDFtk with Rails on Heroku"
 date: 2014-11-20 09:15:50 -0800
 comments: true
-categories: 
+published: true
+sharing: true
+categories: [rails, heroku]
 ---
 
 I recently worked a Rails project in which I had to automate the process of filling
