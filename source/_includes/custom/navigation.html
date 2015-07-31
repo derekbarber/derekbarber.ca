@@ -16,8 +16,11 @@
                 </li>
                 <li {% if page.navbar == 'About' %}class="active"{% endif %}>
                     <a rel="index" href="{{ root_url }}/about">About</a>
-                </li>
-                <li {% if page.navbar == 'Archives' %}class="active"{% endif %}>
+		</li>
+ 		<li {% if page.navbar == 'Resume' %}class="active"{% endif %}>
+                    <a rel="index" href="{{ root_url }}/resume">Résumé</a>
+		</li>
+               <li {% if page.navbar == 'Archives' %}class="active"{% endif %}>
                     <a href="{{ root_url }}/blog/archives">Archives</a>
                 </li>
             </ul>
