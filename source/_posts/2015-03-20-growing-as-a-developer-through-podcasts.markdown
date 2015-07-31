@@ -19,7 +19,7 @@ Lately I've had a daily routine of going for walks and listening to podcasts. It
 and learn new things at the same time. I specifically use the time for listening to podcasts related to my profession
 as a software developer. I have found that the time spent doing so is invaluable and through it I have been
 helped to stay on top of new technology while getting inspired and motivated to keep improving my craft. It keeps
-me learning and helps to guard against burnt out and learning fatigue. As someone who works from home, it's easy to
+me learning and helps to guard against burn out and learning fatigue. As someone who works from home, it's easy to
 feel isolated and get lost in your own echo chamber. Podcasts help me feel connected and I feed off the energy and
 excitment of the hosts and their guests.
 
@@ -65,8 +65,10 @@ about functional programming Functional Geekery is a great way to start on that 
 If you are a Ruby developer this podcast should be an essential part of your listening habits. The panel format,
 led by Charles Max Wood, is excellent and the diversity of the panel always leads to great insights and
 new ways of thinking. One of the highlights of the show for me is "the picks", in which the panelists and guests 
-share interesting and helpful things they come across recently. It could a product, a service, an article, a conference talk, 
-basically pretty much anything worth sharing. I've discovered some amazing stuff thanks to the picks. 
+share interesting and helpful things they have come across recently. It could a product, a service, an article, a conference talk, 
+basically pretty much anything worth sharing. I've discovered some amazing stuff thanks to the picks. All in all,
+a fantastic podcast and it's also very friendly to new Rubyists, and so if Ruby is something you've wanted to check out
+the Ruby Rogues is a great way to do so.
 
 [Visit devchat.tv/ruby-rogues/](http://devchat.tv/ruby-rogues/)
 
@@ -74,7 +76,7 @@ basically pretty much anything worth sharing. I've discovered some amazing stuff
 
 {% img left /images/podcasts/rubyonrails.jpg 150 150 "Ruby on Rails Podcast" %}
 
-The Ruby on Rails Podcast is a long running one, which ended up on quite a long hiatus but was resurrected
+The Ruby on Rails Podcast is a long running one which ended up on quite a long hiatus, but was resurrected
 in 2014 by Sean Devine. Sean is a fantastic host and he always has an interesting guest on. I've really
 appreciated that fact that Sean doesn't just stick to Rails but ventures into topics such as Ember and
 how to integrate a Rails API server with an Ember front-end. If you are a Rails developer then this
@@ -89,7 +91,7 @@ in the Rails world.
 
 This podcast is a fairly recently discovery for me, but a very welcome addition to the queue. The distinctive
 element of Developer Tea is that the episodes are relatively short, typically anywhere from 5 - 20 minutes in
-length. Basically they are typically of a length that an episode could be listening to during a tea (or coffee)
+length. Basically they are typically of a length that could be listening to during a tea (or coffee)
 break. The host, Jonathan, manages to pack a lot of great content into the shorter time format and so I always
 come away from an episode with some helpful insights or information on new tools and techniques.
 
@@ -101,9 +103,9 @@ come away from an episode with some helpful insights or information on new tools
 
 Last but not least is the excellent Giant Robots Smashing into other Giant Robots podcast. This is just one of the
 excellent podcasts created by ThoughtBot (they have others and I would recommend those as well). What I love about
-Giant Robots is that it's a technical podcast but it ventures into a wide variety of topics, including design and
+Giant Robots is that it's a technical podcast but it regularly ventures into a wide variety of topics, including design and
 business, areas that are outside my expertise. Many times I'm learning about new things or new ways of thinking or 
-solving problems. Ben Orenstein is the host and I just really appreciate how he interacts with the guests.
+solving problems. Ben Orenstein is the usually host and I just really appreciate how he interacts with the guests.
 
 [Visit giantrobots.fm](http://giantrobots.fm/)
 
