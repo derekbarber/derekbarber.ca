@@ -42,11 +42,11 @@ our third album which hopefully will be done in the next couple years.
 ## A little bit more about me
 
 More importantly than both work and music, I am married to my best friend and we have
-three wonderful kids. Most spare moment that I'm not working, you'll probably find me 
+four wonderful kids, 3 boys and 1 girl. Most spare moment that I'm not working, you'll probably find me 
 spending time with them.
 
-I am also a Christian and that means in addition to reading technicals books I also enjoy theology, 
-mysticism, church history, insense, icons, candles and the great discussions that such topics usually bring about. 
-One of my favourite places to spend a couple days is our local Benedictine Monastary, [Westminster Abbey](http://www.westminsterabbey.ca/).
-If you want to have a conversation, please [get in touch](mailto:derek@greylevel.com).
+I am also a Christian and that means in addition to reading technicals books I also enjoy theology
+discussions and spending a couple days at there local Benedictine Monastary, [Westminer Abbey](http://www.westminsterabbey.ca).
+
+If you find any of this interesting, I'd love to hear from you and so please [send me an email](mailto:derek@greylevel.com).
 
