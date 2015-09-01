@@ -41,7 +41,7 @@ my current primary proficiencies.
  - Related Technologies: HTML, CSS, Sass, Haml, Responsive design
  - Frameworks: Rails, Sinatra, Ember, React
  - Testing: Rspec, Capybara
- - Deployment: Capybara, Gulp
+ - Deployment: Capistrano, Gulp
  - Continuous Delivery: Travis, CodeShip
 
 ### Databases
