@@ -15,7 +15,7 @@ footer: true
 I am an experienced full stack software developer with a focus on web-based applications. Some of the 
 primary programming languages and technologies that I currently work with include Ruby (and web 
 frameworks including Rails and Sinatra), JavaScript (including several frameworks), Node, and Java. 
-While it is not my focus I am also proficient in aspects of front-end development including HTML and 
+While it is not my focus I am also proficient in aspects of front-end development including HTML,  
 CSS and the complexities around deploying front-end applications.
 
 I am a continual learner, always seeking to improve myself and my craft. I'm not afraid of finding 
@@ -61,27 +61,20 @@ experience with a variety of web and database servers.
 
 ## Work Experience
 
-### <a href="http://www.dutcheauction.com" target="_blank">Dutch eAuction Inc</a>, Senior Software Developer
-*January 2015 - Present*
-
-I am the primary application designer and developer for the Dutch eAuction platform. The platform consists of a 
-front-end web application and back-end API built for running a dutch-style (top-down) online auction. 
-The initial application was built for auctioning motor vehicles and the resulting web app is currently online at 
-<a href="https://auto.dutcheauction.com" target="_blank">auto.dutcheauction.com</a>. The application was 
-built using a combination of Ruby, Rails, JavaScript, along with a host of related web technologies.
 
 ### <a href="https://leadwithpurpose.com" target="_blank">Lead with Purpose</a>, Software Developer
 *April 2015 - Present*
 
-I was hired as a Ruby on Rails contractor for Lead With Purpose and have worked with their primary
-software developer in adding some new features to their very large web application. I have specifically
-worked on a new feature called an "Alignment Survey" which is a tool designed to display and
-capture very specific survey results and then process those results for use in their application.
+Lead with Purpose is a both a strategic planning process and a software application that enables
+business and individuals to implement the process. I am one of the primary developers on the software
+platform which is primarily a Ruby on Rails application that also integrations an increasing number of
+React components for the front-end.
 
 ### <a href="https://www.providechat.com" target="_blank">Provide Chat</a>, Co-founder / Software Developer
 *January 2009 - Present*
 
-I designed and built the Provide Chat web-based software using a combination of Ruby, Rails, Node.js and JavaScript. 
+I designed and built the Provide Chat web-based software using a combination of Ruby, Rails, Node.js 
+and JavaScript (both vanilla JS and React). 
 Includes a web-based administration and chat system, a robust API and JavaScript widgets. Also I worked on 
 building mobile applications which authenticate and communicate through the back-end Rails-powered API.
 
@@ -89,7 +82,7 @@ In addition to my duties as lead software developer, I help to manage the compan
 with our customers and partners.
 
 ### <a href="http://www.smartsettle.com" target="_blank">iCan Systems Inc.</a>, Senior Software Engineer
-*January 2008 - December 2014*
+*January 2008 - August 2016*
 
 My primary responsibility at iCan has been designing and developing web-based software for the 
 emerging eNegotiation industry.
@@ -98,6 +91,15 @@ I have built several web-based applications in my time at iCan Systems, includin
 system for use in Debt Resolution cases, a Ruby on Rails web application to manage Financial Disclosure in 
 separation agreements, and Smartsettle One, which is a single issue negotiation system built using PHP, JavaScript 
 and the Zend Framework.
+
+### <a href="http://www.dutcheauction.com" target="_blank">Dutch eAuction Inc</a>, Senior Software Developer
+*January 2015 - Present*
+
+I was the primary application designer and developer for the Dutch eAuction platform. The platform consists of a 
+front-end web application and back-end API built for running a dutch-style (top-down) online auction. 
+The initial application was built for auctioning motor vehicles and the resulting web app is currently online at 
+<a href="https://auto.dutcheauction.com" target="_blank">auto.dutcheauction.com</a>. The application was 
+built using a combination of Ruby, Rails, JavaScript, along with a host of related web technologies.
 
 ### <a href="http://www.desiringgod.org" target="_blank">Desiring God Ministries</a>, Contractor
 *September 2013 - July 2014*
