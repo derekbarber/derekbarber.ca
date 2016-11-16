@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-{% img left /images/family.jpg 450 360 "Hanging out in nature" %}
+{% img left /images/family-2016.jpg 450 360 "All six of us" %}
 
 I live in the beautiful province of [British Columbia](http://en.wikipedia.org/wiki/British_Columbia),
 located along the West Coast of Canada. I think living here has greatly contributed
@@ -18,19 +18,9 @@ I discovered how to program computers in my early teens (starting with Basic on 
 and then Turbo Pascal on a 286) there was no going back for me. I've been pretty much
 programming on various platforms using a myriad of programming languges ever since then.
 
-Currently I am very thankful to currently be employed at [Smartsettle](http://www.smartsettle.com) 
-which is a leader in developing software for the emerging e-Negotiation industry. With Smartsettle I am 
-privileged to work on technology that truly makes a difference in the world. Smartsettle's vision
-is *"resolving conflict in a more peaceful, collaborative and intelligent way throughout
-the world"*. Our software is based on [Game Theory](http://en.wikipedia.org/wiki/Game_theory) which
-involves mathematical models for resolving conflict and encouraging cooperation between decision makers.
-
-My primary work with Smartsettle involves building their web technology platforms, specifically
-[Smartsettle One](https://go.smartsettle.com), which is a web application designed for simple, 
-single-issue, two-party negotiations. We are hoping to add multi-issue and multi-party
-features in the near future. I also built and continue to manage the 
-[International eNegotiation Exhibition](http://enegotiation.org) which has seen the involvement of dozens of universities
-from over 30 different countries.
+Currently I work remotely from my home office and time is split between [Lead With Purpose](https://leadwithpurpose.com) and
+[Provide Chat Software](https://providechat.com) although I also take on some contract work
+as I am able. 
 
 My musical expressions are primarily realized through my band [Greylevel](http://www.greylevel.com), which to
 date has released two albums through [ProgRock Records](http://www.therecordlabel.net/progressive-rock/greylevel/).
@@ -45,8 +35,8 @@ More importantly than both work and music, I am married to my best friend and we
 four wonderful kids, 3 boys and 1 girl. Most spare moment that I'm not working, you'll probably find me 
 spending time with them.
 
-I am also a Christian and that means in addition to reading technicals books I also enjoy theology
-discussions and spending a couple days at there local Benedictine Monastary, [Westminer Abbey](http://www.westminsterabbey.ca).
+I am also a Catholic Christian and that means in addition to reading technicals books I also enjoy theology
+discussions and spending a couple days at there local Benedictine Monastary, [Westminster Abbey](http://www.westminsterabbey.ca).
 
 If you find any of this interesting, I'd love to hear from you and so please [send me an email](mailto:derek@greylevel.com).
 

@@ -84,13 +84,18 @@ with our customers and partners.
 ### <a href="http://www.smartsettle.com" target="_blank">iCan Systems Inc.</a>, Senior Software Engineer
 *January 2008 - August 2016*
 
-My primary responsibility at iCan has been designing and developing web-based software for the 
-emerging eNegotiation industry.
+My primary work with iCan involves building their web technology platforms, specifically
+[Smartsettle One](https://go.smartsettle.com), which is a web application designed for simple, 
+single-issue, two-party negotiations. The application has many use-cases including areas
+of debt resolution and conflict resolution. I also built the 
+[International eNegotiation Exhibition](http://enegotiation.org) which has seen the 
+involvement of dozens of universities from over 30 different countries.
 
-I have built several web-based applications in my time at iCan Systems, including a Ruby on Rails based negotiation 
-system for use in Debt Resolution cases, a Ruby on Rails web application to manage Financial Disclosure in 
-separation agreements, and Smartsettle One, which is a single issue negotiation system built using PHP, JavaScript 
-and the Zend Framework.
+iCan Systems Inc. is a leader in developing software for the emerging e-Negotiation industry. 
+During my time there I was privileged to work on technology that truly makes a difference in 
+the world. iCan's vision is *"resolving conflict in a more peaceful, collaborative and intelligent way throughout
+the world"*. Our software is based on [Game Theory](http://en.wikipedia.org/wiki/Game_theory) which
+involves mathematical models for resolving conflict and encouraging cooperation between decision makers.
 
 ### <a href="http://www.dutcheauction.com" target="_blank">Dutch eAuction Inc</a>, Senior Software Developer
 *January 2015 - Present*
