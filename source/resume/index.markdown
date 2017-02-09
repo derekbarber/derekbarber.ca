@@ -2,13 +2,9 @@
 layout: page
 title: "Derek J. Barber - Résumé"
 comments: false
-sharing: true
+sharing: false
 footer: true
 ---
-
-## Contact Details
-
-#### 604-764-6155 | derek@derekbarber.ca
 
 ## Overview
 
@@ -28,7 +24,7 @@ of automated testing tools and generally practice a test-first approach to devel
 
 ### Development Setup
 
-OS X, iTerm, Vim, Tmux, Git
+OS X or Linux, Vim, Tmux, Git
 
 ### Programming and Related Technologies
 
@@ -39,9 +35,9 @@ my current primary proficiencies.
  - Primary Languages: Ruby, JavaScript, Java
  - Secondary Languages: Elixir, Objective-C, Python, PHP
  - Related Technologies: HTML, CSS, Sass, Haml, Responsive design
- - Frameworks: Rails, Sinatra, Ember, React
+ - Frameworks: Rails, Sinatra, React
  - Testing: Rspec, Capybara
- - Deployment: Capistrano, Gulp
+ - Deployment: Capistrano, Webpack
  - Continuous Delivery: Travis, CodeShip
 
 ### Databases
@@ -82,7 +78,7 @@ In addition to my duties as lead software developer, I help to manage the compan
 with our customers and partners.
 
 ### <a href="http://www.smartsettle.com" target="_blank">iCan Systems Inc.</a>, Senior Software Engineer
-*January 2008 - August 2016*
+*January 2008 - Present*
 
 My primary work with iCan involves building their web technology platforms, specifically
 [Smartsettle One](https://go.smartsettle.com), which is a web application designed for simple, 
@@ -98,7 +94,7 @@ the world"*. Our software is based on [Game Theory](http://en.wikipedia.org/wiki
 involves mathematical models for resolving conflict and encouraging cooperation between decision makers.
 
 ### <a href="http://www.dutcheauction.com" target="_blank">Dutch eAuction Inc</a>, Senior Software Developer
-*January 2015 - Present*
+*January 2015 - November 2015*
 
 I was the primary application designer and developer for the Dutch eAuction platform. The platform consists of a 
 front-end web application and back-end API built for running a dutch-style (top-down) online auction. 
@@ -155,9 +151,10 @@ Apache, MySQL and other open source technologies.
 #### Diploma in Computer Information Systems, Kwantlen Polytechnic University
 *1997-1999*
 
-## Online Profiles
+## Getting in touch
 
- - [LinkedIn](https://ca.linkedin.com/in/barberderek)
+ - [Email](mailto: derek@derekbarber.ca)
+ - [Github](https://github.com/derekbarber)
  - [Stack Overflow Careers](https://careers.stackoverflow.com/derekbarber)
 
 

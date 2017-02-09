@@ -57,7 +57,7 @@ needed to be more self controlled.* At least that is what I
 thought until I watched a TED Talk called **"Quit social media"**
 by Dr. Cal Newport.
 
-In this video, Dr. Newport didn't pull any punches, told it like
+In this video, Cal Newport didn't pull any punches, told it like
 it is and basically made a very strong case to simply quit
 social media. 
 
@@ -75,10 +75,11 @@ weeks later I have no regrets.
 **I decided to keep my Twitter account for now but drastically change how it.**
 
 I deleted the Twitter app from my phone and I am trying
-the practice of only checking Twitter twice a day - once in the morning
+the practice of only checking Twitter a maximum of twice a day - once in the morning
 and once in the evening. (I also unfollowed about 100 users which
 minimizes the noise). I'm planning to see how this works and make
-further changes if necessary but so far it's been working well.
+further changes if necessary but so far it's been working well
+and I find many days I don't even check Twitter at all.
 
 ### Clarity
 

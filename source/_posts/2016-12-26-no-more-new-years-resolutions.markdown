@@ -29,11 +29,11 @@ Did you make any this year?
 I know for me while I have made many in the past, I have always struggled to actually
 maintain them and have them impact my life for the *long term*. 
 
-The typical pattern that I encountered was an initial couple weeks of consistency, followed
+My typical pattern is an initial few weeks of consistency, followed
 by another couple weeks of inconsistency, which ultimately ended in the
-abondonment of the resolution. 
+abandonment of the resolution. 
 
-I don't think mine is an atypical experience. At least in my circles, a common 
+I don't think mine is an atypical experience. A common 
 experience with new years resolutions tends to be that they start off 
 with the best intentions, but they just don't last. 
 
@@ -66,7 +66,7 @@ such as
  * etc...
 
 January 1st would come and I would start cutting out all sugar
-and it would go okay for a couple days, but it wouldn't take long
+and it would go okay for a while, but it wouldn't take long
 before such a drastic and difficult to maintain change would
 unravel and I would end up back at square one.
 
@@ -92,12 +92,12 @@ The difference is that now I have something
 and I can not only work towards it but know when I've completed
 it.
 
-So I basically quit making New Years Resolutions several years
+I basically quit making New Years Resolutions several years
 ago and instead I simply do the following throughout the year:
 
  * Set realistic & attainable goals for things I want to accomplish or change in my life
- * Pick a target date by which the goal will be "complete" (however you want to define it)
- * Make a detailed plan as to how you will meet the goal by the chosen date
+ * Pick a target date by which the goal will be "complete" (however I want to define it)
+ * Make a detailed plan as to how I will meet the goal by the chosen date
  * Review regularly, update targets and plan as needed
 
 ### Setting Attainable Goals
@@ -118,8 +118,8 @@ that comes from the world of project management and stands for:
 
 As much as I like the SMARTER criteria you can keep it simpler
 than that. Do what works for you, that's the most important
-thing. I think the key is to start small and win little victories 
-to build confidence before taking on larger goals.
+thing. I think the key is to start small and win little victories,
+building confidence before taking on larger goals.
 
 This is the approach I've taken over the past several years 
 and I can't tell you the incredible difference it has made
@@ -127,8 +127,7 @@ in my life.
 
 ### Don't wait for January
 
-Another helpful tip when doing goal setting is to not think you
-have to wait for January 1st to set new goals. I think the
+Another helpful tip is to not wait for January 1st to set new goals. I think the
 new year is a good time to review all the goals from the
 previous year and either revise them or set new ones. But
 this is a practice that I like to do much more regularly. Typically
@@ -164,13 +163,13 @@ rewarding event.
 
 #### Raising the bar...
 
-After the race I so enjoyed it that I ended up registering for a second
+After the race I enjoyed it so much that I ended up registering for a second
 10K in October and continued my training throughout the year. The
 second run was even better and I improved my time by several minutes.
 
-Now with 2017 on the horizon I'm looking to up my running goals further
+Now with 2017 on the horizon I'm looking increase my running goals further
 and so I have registered for a 10K in February and then a Half Marathon
-in April. I've never run half marathon before and so it's a bit intimidating
+in April. I've never run a half marathon before and so it's a bit intimidating
 but with a specific target and a plan, it now becomes attainable.
 
 ### Pay your money and put it on your calender
