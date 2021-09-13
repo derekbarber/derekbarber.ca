@@ -18,7 +18,9 @@ and then Turbo Pascal on a 286) there was no going back for me. I've been pretty
 programming on various platforms using a myriad of programming languages ever since then.
 
 I've been working remotely from my home office since 2004 and currently I work full-time
-for a company called [Glass Canvas](https://glasscanvas.io).
+for a company called [Lead With Purpose](https://leadwithpurpose.com). I am the
+principal developer of the Lead With Purpose platform, which is both a web and
+mobile application.
 
 I feel extremely blessed that I am able to work a job that I love. If I wasn't getting
 paid to write software I would still be doing it in my spare time. The craft of programming
