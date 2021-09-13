@@ -10,9 +10,9 @@ footer: true
 
 I am an experienced polyglot software developer with a focus on web 
 and mobile applications. In recent years my focus has been on 
-developing web applications with Ruby, Rails, and JavaScript 
-(including Node and React). On the mobile side I have experience 
-developing cross-platform apps using React Native as well as building 
+developing web applications with Ruby, Rails and JavaScript (including
+React and Svelte). On mobile I have experience 
+developing cross-platform apps for iOS & Android using Flutter as well as building 
 native iOS apps using Swift. I also have recently been exploring 
 functional programming and have been enjoying Elixir and the Phoenix framework.
 
@@ -28,7 +28,7 @@ tools and generally practice a test-first approach to development.
 
 My primary proficiency is software development with a focus in recent 
 years on the Ruby and JavaScript languages, utilizing various frameworks 
-including Rails and React. I also have over 20 years of combined experience 
+including Rails, React and Svelte. I also have over 20 years of combined experience 
 in other programming languages including Java, C/C++, Swift, Python, 
 PHP and Elixir.  I have developed for a myriad of platforms throughout
 my career including web, mobile, desktop and embedded systems.
@@ -37,7 +37,7 @@ In addition I have experience with the following related technologies:
 
  - Databases: PostgreSQL, MySQL, Redis, MongoDB
  - Linux server administration and application deployment 
- - JavaScript build tools: Webpack and Gulp
+ - JavaScript Frameworks: React and Svelte 
  - Front-end web development: HTML, CSS, Sass, responsive design
  - Automated Testing: Rspec, Capybara
  - Version control systems: Git and Subversion
@@ -46,24 +46,28 @@ In addition I have experience with the following related technologies:
 
 ## Work Experience
 
+### <a href="https://leadwithpurpose.com" target="_blank">Lead with Purpose</a>, Senior Software Engineer
+*April 2015 - Present*
+
+Lead with Purpose helps businesses to create an engaged team of people that are on 
+the same page. I am the lead developer on their software platform which is a large and 
+complex Rails application that also exposes an API to the front-end which has 
+been built with a combination of JavaScript and Svelte.
+
+I also build native mobile apps for iOS and Android in Flutter. These apps consume the Rails API and provide
+Lead with Purpose users with a customized mobile experience.
+
 ### <a href="https://glasscanvas.io" target="_blank">Glass Canvas</a>, Software Developer
-*March 2017 - Present*
+*March 2017 - March 2018*
 
 My role at Glass Canvas has primarily involved the continued development and customization 
 of their custom CMS platform, a Ruby on Rails application built with the Refinery 
 extension. In addition to the Rails work I have also written JavaScript and React 
 code and been involved with ElasticSearch integration.
 
-### <a href="https://leadwithpurpose.com" target="_blank">Lead with Purpose</a>, Software Developer
-*April 2015 - Present*
-
-Lead with Purpose helps businesses to create an engaged team of people that are on 
-the same page. I have worked on their software platform which is a large and 
-complex Rails application that also exposes an API to the front-end which has 
-been built with a combination of vanilla JavaScript and React.
 
 ### <a href="https://www.providechat.com" target="_blank">Provide Chat</a>, Co-founder / Software Developer
-*January 2009 - Present*
+*January 2009 - 2017*
 
 I designed and built the Provide Chat web-based application using a combination 
 of Ruby on Rails and JavaScript (both vanilla JS, Node and React). Provide Chat 
