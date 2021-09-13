@@ -54,7 +54,7 @@ It's completely free.
 
 ## Hour of Code
 
-[The Hour of Code](http://code.org/learn) is a great resource for teaching kids to code. They have done
+[The Hour of Code](https://code.org/learn) is a great resource for teaching kids to code. They have done
 all the hard work of preparing resources and lessons for anyone who wants to get started doing do. They have put
 together a variety of hour-long tutorials for students of all ages and so all you have to do is pick one and go
 for it. They even have a how-to guide for teachers, handouts to help spread the word and all sorts of other learning
@@ -66,7 +66,7 @@ Once they go through a couple of these tutorials they can easily graduate to the
 
 ## Coder Dojo
 
-[The Coder Dojo](http://coderdojo.com) is *a global network of free computer programming clubs for young people*.
+[The Coder Dojo](https://coderdojo.com) is *a global network of free computer programming clubs for young people*.
 The basic idea is to get a bunch of young people together with some volunteer technical mentors and see what they
 can create. They do everything from Scratch to web development to programming the [Raspberry Pi](https://www.raspberrypi.org). 
 When I first was introduced to CoderDojo I was inspired by how just a couple people started this amazing
@@ -82,6 +82,23 @@ Unfortunately for those of us in Canada we only have 5 clubs the last time I che
 me in Vancouver. However, this is a problem that can be solved and so I have started to look into what it
 might take to start one here. For me it would be a great way to continue what was begun at my local elementary school
 a couple weeks ago.
+
+## Computer Science Fun for Kids
+
+This resource was sent in by Katie (thank you Katie!), who is a reader of this site
+and is currently learning to code. It's a great one! It is called [Computer Science Fun for
+Kids](https://www.hp.com/ca-en/shop/Offer.aspx?p=computer-science-fun-for-kids)
+and it is a fantastic list of educational games and activities which teach you
+how to code while having fun.
+
+This is a big and diverse list and so I invite you to check it out and explore the
+recommended resources. I think this is a wonderful starting point for anyone who wants to learn to code
+but feels intimidated by the prospect and is unsure how to begin. Also I
+think that when combined with the other resources out there, it is another way to keep learning 
+and growing. Thanks to Katie I'm definitely going to be sharing these games and
+activites with my kids and I think several of them would work great in a group
+and/or classroom setting. So if you want to teach kids to code, check out this
+list and I'm sure you'll find something you can use for your next lesson.
 
 --
 
